@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr  5 23:00:40 2020
-
-@author: nsriram
-"""
-
 
 from flask import Flask,request, render_template
 
